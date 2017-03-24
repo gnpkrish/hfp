@@ -1,7 +1,6 @@
 HFP for Linux
 =============
 
-Copyright 2006-2008 Sam Revitch <samr7@cs.washington.edu>
 
 HFP for Linux is a software package written in C++ that aims to be a 
 conforming implementation of Bluetooth Hands-Free Profile 1.5.  This 
